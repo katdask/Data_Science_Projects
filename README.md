@@ -1,7 +1,7 @@
 # Data_Science_Projects
 ### This repository includes material prepared for the semester class project of "Deep Learning" for the MSc in Data Science
 
-## Deep Learning Semester Project Titled: "Facial Expressions & Facial Attributes Recognition with CNNs Using Tensoflow/Keras"
+### Deep Learning Semester Project Titled: "Facial Expressions & Facial Attributes Recognition with CNNs Using Tensoflow/Keras"
 
 ### Classification Tasks using Facial Expressions Dataset:
 #### 1. Multiclass Classification of facial expressions, testing different models & parameters
