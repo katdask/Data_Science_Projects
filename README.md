@@ -1,2 +1,5 @@
 # Data_Science_Projects
-all my data science master projects
+Includes material prepared for the semester class project of "Deep Learning"
+
+Deep Learning Cass Semester Project Title: "Facial expression & facial attributes recognition"
+
